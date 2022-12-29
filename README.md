@@ -27,5 +27,5 @@ Evaluasi model menggunakan: confusion matrix, accuracy, precision, recall, dan F
 
 Ukuran keberhasilan pengembangan model klasifikasi: nilai accuracy harus diatas 80%
 
-
+[Klik untuk melihat project](https://colab.research.google.com/drive/1sZkIQcTGc0SgqZ7N4zRvYLhHCZofwZcu)
 ### Project ini dibuat untuk kepentingan sertifikasi BNSP sebagai Associate Data Science pada bulan Desember 2022 yang diafiliasi oleh Great Edu Mitra Studi Independen Kampus Merdeka
